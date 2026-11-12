@@ -1,6 +1,10 @@
 body {
     background-color: #ececec;
-    font-family: Arial, sans-serif; 
+    body {
+    font-family: -apple-system, BlinkMacSystemFont,
+                 "SF Pro Display", "SF Pro Text",
+                 sans-serif;
+} 
     color: #202020; 
 }
 
